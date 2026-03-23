@@ -1,10 +1,10 @@
 # Changelog
 
-All notable changes to this project will be documented in this file.
+## 0.1.1
 
-## [0.1.0] - 2026-03-21
+- Standardize README badges and CHANGELOG formatting
 
-### Added
+## 0.1.0
 
 - `globMatch()` — test a string against a glob pattern
 - `globFilter()` — filter an array of strings by a glob pattern

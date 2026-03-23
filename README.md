@@ -2,7 +2,7 @@
 
 [![CI](https://github.com/philiprehberger/ts-glob-match/actions/workflows/ci.yml/badge.svg)](https://github.com/philiprehberger/ts-glob-match/actions/workflows/ci.yml)
 [![npm version](https://img.shields.io/npm/v/@philiprehberger/glob-match)](https://www.npmjs.com/package/@philiprehberger/glob-match)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![License](https://img.shields.io/github/license/philiprehberger/ts-glob-match)](LICENSE)
 
 Glob pattern matching -- minimatch alternative for runtime use.
 
