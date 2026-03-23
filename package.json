@@ -1,6 +1,6 @@
 {
   "name": "@philiprehberger/glob-match",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Glob pattern matching — minimatch alternative for runtime use",
   "type": "module",
   "main": "./dist/index.cjs",
@@ -37,7 +37,7 @@
     "filter",
     "minimatch"
   ],
-  "author": "philiprehberger",
+  "author": "Philip Rehberger",
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -48,7 +48,7 @@
   },
   "homepage": "https://github.com/philiprehberger/ts-glob-match#readme",
   "engines": {
-    "node": ">=18"
+    "node": ">=18.0.0"
   },
   "devDependencies": {
     "tsup": "^8.0.0",
