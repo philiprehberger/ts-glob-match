@@ -3,6 +3,7 @@
 [![CI](https://github.com/philiprehberger/ts-glob-match/actions/workflows/ci.yml/badge.svg)](https://github.com/philiprehberger/ts-glob-match/actions/workflows/ci.yml)
 [![npm version](https://img.shields.io/npm/v/@philiprehberger/glob-match)](https://www.npmjs.com/package/@philiprehberger/glob-match)
 [![License](https://img.shields.io/github/license/philiprehberger/ts-glob-match)](LICENSE)
+[![Sponsor](https://img.shields.io/badge/sponsor-GitHub%20Sponsors-ec6cb9)](https://github.com/sponsors/philiprehberger)
 
 Glob pattern matching -- minimatch alternative for runtime use.
 
